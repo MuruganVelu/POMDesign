@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\AutomationFrameWorks\New folder\AutomationSample\src\main\resources\screenShots\facebookSignUp_02_07_2019_08_17_17.png'><img src='D:\AutomationFrameWorks\New folder\AutomationSample\src\main\resources\screenShots\facebookSignUp_02_07_2019_08_17_17.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20461" started-at="2019-07-02T02:46:59Z" finished-at="2019-07-02T02:47:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20461" started-at="2019-07-02T02:46:59Z" finished-at="2019-07-02T02:47:20Z">
+      <class name="mrgn.testcase.MyFirstTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:mrgn.testcase.MyFirstTest@64bf3bbf]" name="beforeSuite" is-config="true" duration-ms="610" started-at="2019-07-02T08:16:58Z" finished-at="2019-07-02T08:16:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mrgn.testcase.MyFirstTest@64bf3bbf]" name="beforeTest" is-config="true" duration-ms="7325" started-at="2019-07-02T08:16:59Z" finished-at="2019-07-02T08:17:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:mrgn.testcase.MyFirstTest@64bf3bbf]" name="beforeMethod" is-config="true" duration-ms="86" started-at="2019-07-02T08:17:06Z" finished-at="2019-07-02T08:17:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void mrgn.testcase.MyFirstTest.facebookSignUp()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="facebookSignUp()[pri:0, instance:mrgn.testcase.MyFirstTest@64bf3bbf]" name="facebookSignUp" duration-ms="10560" started-at="2019-07-02T08:17:07Z" finished-at="2019-07-02T08:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookSignUp -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:mrgn.testcase.MyFirstTest@64bf3bbf]" name="afterMethod" is-config="true" duration-ms="1367" started-at="2019-07-02T08:17:17Z" finished-at="2019-07-02T08:17:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=facebookSignUp status=SUCCESS method=MyFirstTest.facebookSignUp()[pri:0, instance:mrgn.testcase.MyFirstTest@64bf3bbf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\AutomationFrameWorks\New folder\AutomationSample\src\main\resources\screenShots\facebookSignUp_02_07_2019_08_17_17.png'><img src='D:\AutomationFrameWorks\New folder\AutomationSample\src\main\resources\screenShots\facebookSignUp_02_07_2019_08_17_17.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mrgn.testcase.MyFirstTest@64bf3bbf]" name="afterTest" is-config="true" duration-ms="1076" started-at="2019-07-02T08:17:18Z" finished-at="2019-07-02T08:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mrgn.testcase.MyFirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
