@@ -27,9 +27,6 @@ public class FacebookSignUpPage extends OR_FacebookSignUp {
 	}
 
 	public void facebookSignUp() {
-
-		
-		
 		
 		setText(firstname, FacebookSignUpPage.data(1, "FirstName"));
 		setText(lastname, FacebookSignUpPage.data(1, "LastName"));
